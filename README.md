@@ -6,7 +6,7 @@ Submitted by: **Rakesh Pillai**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/eager-hissing-flyaway
 
 ## Required Functionality
 
@@ -42,16 +42,15 @@ The following **additional** features are implemented:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I did not use any outside resources.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
-
+The main challenge I encountered was handling the guessing and programming the logic. In general, it just took me more time than expected to think the whole process through and write the code out. I specifically forgot about the fact that arrays start from 0 and I completely forgot to subtract the length of pattern by 1. I overcame this specific error by looking at the error and tracing my code to see where I went wrong. 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+One question I have regarding web development is how does the browser interpret the JavaScript startTone, playTone, and stopTone functions. I'm currently taking a base level ECE course and we are learning about op-amps and I am learning about concepts such as gain and frequency. I'm excited to learn more about how browsers (and computers in general) interpret languages such as JavaScript. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I unfortunately didn't get much time to work on this project due to ongoing projects and tests, however, if I had a few more hours, I would spice up the user interface. I would likely use Bootstrap or another easy-to-use framework to make the app look prettier without having to do any actual design. Another feature I would add is "survival" mode which just lets the user go on forever until they make a mistake and their score would be the amount of rounds they "survived" for. I would also implement a few of the optional features, specifically the randomized patterns, limited time to guess, and more functional buttons to make the game more engaging and complex. 
 
 
 
@@ -62,7 +61,7 @@ The following **additional** features are implemented:
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Rakesh Pillai
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
